@@ -5,9 +5,9 @@
 - [Background](https://github.com/TuanNguyen4/rock-paper-scissor#background)
 - [Recognizing Rock, Paper, and Scissor](https://github.com/TuanNguyen4/rock-paper-scissor#recognizing-rock-paper-and-scissor)
 - [Interacting with Buttons](https://github.com/TuanNguyen4/rock-paper-scissor#interacting-with-buttons)
-- [Detecting Hand Swipes](https://github.com/TuanNguyen4/rock-paper-scissor#detecting-hand-motion)
-- [Installation](https://github.com/TuanNguyen4/rock-paper-scissor#installation)
+- [Detecting Hand Swipes](https://github.com/TuanNguyen4/rock-paper-scissor#detecting-hand-swipes)
 - [Usage](https://github.com/TuanNguyen4/rock-paper-scissor#usage)
+- [Installation](https://github.com/TuanNguyen4/rock-paper-scissor#installation)
 - [Credits](https://github.com/TuanNguyen4/rock-paper-scissor#credits)
 
 ## Description
